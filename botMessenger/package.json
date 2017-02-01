@@ -1,0 +1,24 @@
+{
+  "name": "secretbots",
+  "version": "1.0.0",
+  "description": "Bot com objetivo de ter um melhor contato com pessoas que acessarem o hub da plugue.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "request": "^2.79.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PlugueHub/botMessenger.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PlugueHub/botMessenger/issues"
+  },
+  "homepage": "https://github.com/PlugueHub/botMessenger#readme"
+}
